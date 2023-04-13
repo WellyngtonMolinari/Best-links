@@ -18,3 +18,9 @@ For Job Interviews:
 Best JS frameworks:
 - https://github.com/pixijs/pixijs
 - https://github.com/liabru/matter-js
+
+AI:
+- https://www.futuretools.io/tools/phind
+- https://openai.com/product/dall-e-2
+- https://chat.openai.com/chat
+- https://www.synthesia.io/?via=sign-up-free
