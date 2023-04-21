@@ -2,6 +2,7 @@
 A list of the best and useful links in the web
 
 Helpful links:
+- https://rapidapi.com/hub
 - https://github.com/apptension/developer-handbook
 - https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner
 - https://github.com/practical-tutorials/project-based-learning
@@ -18,6 +19,7 @@ For Job Interviews:
 Best JS frameworks:
 - https://github.com/pixijs/pixijs
 - https://github.com/liabru/matter-js
+- https://confetti.js.org/#
 
 AI:
 - https://www.futuretools.io/tools/phind
