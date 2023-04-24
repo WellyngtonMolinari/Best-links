@@ -1,6 +1,9 @@
 # Best-links
 A list of the best and useful links in the web
 
+Best React Sites:
+- https://www.awwwards.com/
+
 Helpful links:
 - https://rapidapi.com/hub
 - https://github.com/apptension/developer-handbook
@@ -20,6 +23,8 @@ Best JS frameworks:
 - https://github.com/pixijs/pixijs
 - https://github.com/liabru/matter-js
 - https://confetti.js.org/#
+- https://hydrogen.shopify.dev/
+
 
 AI:
 - https://www.futuretools.io/tools/phind
