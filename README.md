@@ -1,5 +1,5 @@
 # Best-links
-A list of the best and useful links in the web
+A list of the best and useful links on the web
 
 Best React Sites:
 - https://www.awwwards.com/
