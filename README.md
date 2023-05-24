@@ -12,6 +12,7 @@ Helpful links:
 - https://github.com/topics/javascript
 - https://www.freecodecamp.org/
 - https://dub.sh/ - shorter links
+- https://freeprojectscodes.com/ 
 
 For Carreers:
 - https://www.freecodecamp.org/news/how-to-go-from-junior-developer-to-mid-level-developer/
