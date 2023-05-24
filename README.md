@@ -5,12 +5,13 @@ Best React Sites:
 - https://www.awwwards.com/
 
 Helpful links:
-- https://rapidapi.com/hub
+- https://rapidapi.com/hub - API's Collection
 - https://github.com/apptension/developer-handbook
 - https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner
 - https://github.com/practical-tutorials/project-based-learning
 - https://github.com/topics/javascript
 - https://www.freecodecamp.org/
+- https://dub.sh/ - shorter links
 
 For Carreers:
 - https://www.freecodecamp.org/news/how-to-go-from-junior-developer-to-mid-level-developer/
@@ -27,7 +28,12 @@ Best JS frameworks:
 
 
 AI:
-- https://www.futuretools.io/tools/phind
-- https://openai.com/product/dall-e-2
-- https://chat.openai.com/chat
-- https://www.synthesia.io/?via=sign-up-free
+- https://www.futuretools.io/tools/phind - instant answers to technical questions
+- https://openai.com/product/dall-e-2 - can create realistic images and art from a description
+- https://chat.openai.com/chat - chatGPT
+- https://www.synthesia.io/ - create AI videos
+- https://designs.ai/ - design posts/banners/images
+- https://tome.app/ - create slides
+- https://www.fotor.com/ - create social posts
+- https://predis.ai/ - create marketing posts
+- https://neural.love/ - image enhancer
